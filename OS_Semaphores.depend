@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575992343 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Semaphores/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	<math.h>
+
+1575983595 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Semaphores/matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+
